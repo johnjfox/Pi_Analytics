@@ -50,7 +50,7 @@ Some sites to check out before you decide to invest:
 
 ### Interesting Add Ons
 
-General advice: the Pi by itself is fun but the Pi with some other add ons to interact with the real world is an absolute blast if you're into such things. **HOWEVER: Be careful that whatever you buy is fully assembled. Many add-ons come in the form of "mini-kits" which is to say that they require you to solder together some pieces.** That said, here are some items I've had fun with
+General advice: the Pi by itself is fun but the Pi with some other add ons to interact with the real world is an absolute blast if you're into such things. **HOWEVER: Be careful that whatever you buy is fully assembled. Many add-ons come in the form of "mini-kits" which is to say that they require you to solder together some pieces.** This may or may not be something you want to deal with. At the very least it will require you to have a soldering gun/iron + some minimal level of skill with soldering. With that said, here are some items I've had fun with
 
 * [**The Pi Sense hat**](https://www.adafruit.com/products/2738): Multiple sensors + an 8x8 LED panel + mini-joystick. Only problem is that the temperature sensor will only measure the temperature of the Pi if you assemble it the normal way. Otherwise a lot of fun. 
 * [**The Explorer Pro hat**](https://www.adafruit.com/products/2427) Lot's of ways to go here. You can attach motors, sensors, there are built in LED's, and touch pads
