@@ -1,6 +1,6 @@
 Hello!
 
-I'm glad to hear that at least a few of you are interested in the Raspberry Pi! Since I've received several questions about where to start, I thought it might be easiest to just answer things once in a shareable format. 
+I'm glad to hear that at least a few of you are interested in the Raspberry Pi! Since I've received several questions about where to start, I thought it might be easiest to just answer things once in a shareable format. I'll try to keep this README more or less up to date and will also place some sample code here if it will help abnyone get started.
 
 ## Some Caveats and General Statements:
 
