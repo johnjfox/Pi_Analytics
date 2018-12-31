@@ -33,3 +33,6 @@ sudo pip3 install scikit-learn
 sudo pip3 install flask 
 sudo pip3 install ggplot
 sudo pip3 install picamera
+
+# to fully enable to Pi Camera
+# http://www.linuxx.eu/2014/07/mmal-mmalvccomponentenable-failed-to.html
