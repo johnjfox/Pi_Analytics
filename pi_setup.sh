@@ -9,6 +9,7 @@ sudo apt-get install cmake
 sudo apt-get install unzip 
 sudo apt-get install pkg-config
 sudo apt-get install emacs
+sudo apt-get install vlc
 sudo apt-get install libicu-dev
 sudo apt-get install libcblas-dev
 sudo apt-get install libhdf5-dev
