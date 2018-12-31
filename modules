@@ -1,0 +1,19 @@
+# Copy to /etc/modules
+#
+# http://www.linuxx.eu/2014/07/mmal-mmalvccomponentenable-failed-to.html
+# 
+# /etc/modules: kernel modules to load at boot time.
+#
+# This file contains the names of kernel modules that should be loaded
+# at boot time, one per line. Lines beginning with "#" are ignored.
+# Parameters can be specified after the module name.
+
+
+w1-gpio pullup=1
+w1-therm
+i2c-bcm2708
+i2c-dev
+spi-bcm2708
+snd-bcm2835
+lirc_dev
+lirc_rpi gpio_out_pin=7
